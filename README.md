@@ -1,4 +1,4 @@
-# codeBoard: It's kinda like JS Bin.
+# codeBoard: It's kinda like JS Bin. [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 by mrivasperez. live demo: <https://mrivasperez.github.io/codeBoard/>
 ## Screenshot
 ![A screenshot of {codeBoard} running on Mac. All four columns are showing and coded to output "Hello World"](assets/screenshot.png)
@@ -16,5 +16,3 @@ The user interface of codeBoard is very similar to JS Bin (https://jsbin.com/). 
 ### How to view or hide panels
 In the middle of the navigation bar at the top there are four buttons you can press to toggle which panels are in view. To view or hide any panel, you must click the respective panel. You can tell which panels are active by looking at the navigation panels. When a panel is active the button corresponding to it will be a light purple.
 
-## License
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
